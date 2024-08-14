@@ -20,6 +20,4 @@ public class VariableTypes {
 //        short num4 = -32769;
         long mobileNo = 9999999999L;
     }
-
-
 }
